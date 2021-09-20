@@ -9,10 +9,14 @@ I'm Valentina from Antwerp, Junior Web Dev. Working on improving my dev skills i
 * ⚛ REACT  
 * 💻 JS / HTML / CSS
 
+### In short:
+
 - 🔭 I’m currently working on my portfolio page in React. 
 - 🌱 I’m currently learning React, Vue 
 - 📫 How to reach me: valentinacorak@gmail.com 
-- ⚡ Fun fact: I'm baking cakes if this doesn't work out. 
+- ⚡ Fun fact: I'm baking cakes if this doesn't work out.
+
+### Example of projects:
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/VCorak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/valentina-corak-060/)  
