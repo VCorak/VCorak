@@ -21,7 +21,11 @@ I'm Valentina from Antwerp, Junior Web Dev. Working on improving my dev skills i
 
 <img src="https://media.giphy.com/media/lkZte8FqSSChjanNr7/giphy.gif?cid=790b7611b47e6b0b57b4c839f7e705447ef81c0c42ed3b83&rid=giphy.gif&ct=g" width="256"/>
 
-<img src="https://media.giphy.com/media/lkZte8FqSSChjanNr7/giphy.gif?cid=790b7611b47e6b0b57b4c839f7e705447ef81c0c42ed3b83&rid=giphy.gif&ct=g" width="256"/>
+<img src="https://media.giphy.com/media/0kTrX9Eh3ip0agwpfp/giphy.gif?cid=790b76112121c96c8753c79da9d5a1b02a93a762e3fc1b47&rid=giphy.gif&ct=g" width="256"/>
+
+<img src="https://media.giphy.com/media/oEBOsNbnCZKNZ8bpw7/giphy.gif?cid=790b7611b70f585d190157ff16431e73b6db48a7c0042c05&rid=giphy.gif&ct=g" width="256"/>
+
+<img src="https://media.giphy.com/media/0kTrX9Eh3ip0agwpfp/giphy.gif?cid=790b76112121c96c8753c79da9d5a1b02a93a762e3fc1b47&rid=giphy.gif&ct=g" width="256"/>
 
 ### Let's get serious contact:
 
