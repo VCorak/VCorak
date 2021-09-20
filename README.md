@@ -19,7 +19,9 @@ I'm Valentina from Antwerp, Junior Web Dev. Working on improving my dev skills i
 ### Example of projects:
 <img src="https://media.giphy.com/media/hh4LngFAUd9aKLHMoA/giphy.gif?cid=790b76111ef08d2522c1781da350cf32a87197343572383b&rid=giphy.gif&ct=g" width="256"/>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/VCorak)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/valentina-corak-060/)  
+* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/https://github.com/VCorak)  
+
+* [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/linkedin.com/in/valentina-corak-060/)  
 
 
 
