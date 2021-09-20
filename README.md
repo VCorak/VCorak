@@ -1,14 +1,13 @@
-### Hi there 👋
+![Junior Web Dev](https://github.com/VCorak/VCorak/blob/main/Red%20Purple%20Modern%20Occult%20Tarot%20Reading%20Business%20Halloween%20Banner.png)
+
+# Hi there 👋, my name is Valentina!
+## Junior Web Dev
 
 I'm Valentina from Antwerp, Junior Web Dev. Working on improving my dev skills in React and exloring Vue.js also. You can check my repos for some projects in React! Would love some feedback!
 
-### Hi there 👋, my name is Valentina!
-#### Junior Web Dev
-![Junior Web Dev](https://github.com/VCorak/VCorak/blob/main/Red%20Purple%20Modern%20Occult%20Tarot%20Reading%20Business%20Halloween%20Banner.png)
-
-Working on improving my dev skills in React and exloring Vue.js also. You can check my repos for some projects in React! Would love some feedback!
-
-Skills: REACT / JS / HTML / CSS
+### Skills: 
+* ⚛ REACT  
+* 💻 JS / HTML / CSS
 
 - 🔭 I’m currently working on my portfolio page in React. 
 - 🌱 I’m currently learning React, Vue 
