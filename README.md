@@ -4,7 +4,7 @@ I'm Valentina from Antwerp, Junior Web Dev. Working on improving my dev skills i
 
 ### Hi there 👋, my name is Valentina!
 #### Junior Web Dev
-![Junior Web Dev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Junior Web Dev](https://github.com/VCorak/VCorak/blob/main/Red%20Purple%20Modern%20Occult%20Tarot%20Reading%20Business%20Halloween%20Banner.png)
 
 Working on improving my dev skills in React and exloring Vue.js also. You can check my repos for some projects in React! Would love some feedback!
 
