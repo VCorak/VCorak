@@ -1,4 +1,4 @@
-![Junior Web Dev](https://github.com/VCorak/VCorak/blob/main/Red%20Purple%20Modern%20Occult%20Tarot%20Reading%20Business%20Halloween%20Banner.png width="400" height="400")
+![Junior Web Dev](https://github.com/VCorak/VCorak/blob/main/Red%20Purple%20Modern%20Occult%20Tarot%20Reading%20Business%20Halloween%20Banner.png)
 
 # Hi there 👋, my name is Valentina!
 ## Junior Web Dev
