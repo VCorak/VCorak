@@ -35,5 +35,5 @@ I'm Valentina from Antwerp, Junior Web Dev. Working on improving my dev skills i
 
 ## 🔴DISCLAMER: The total commits number in GitHub Stats is pure coincidence and I'm not involved in any secret society.🔴
 
-<img src="https://media.giphy.com/media/STqhRkvx4qH63cLqAo/giphy.gif" width="300" height="300">
+<img src="https://media.giphy.com/media/YJ85eVpdZDy7e/giphy.gif">
 
