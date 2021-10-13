@@ -34,5 +34,6 @@ I'm Valentina from Antwerp, Junior Web Dev. Working on improving my dev skills i
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vcorak)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔴DISCLAMER: The total commits number in GitHub Stats is pure coincidence and I'm not involved in any secret society.🔴
-![](https://media.giphy.com/media/STqhRkvx4qH63cLqAo/giphy.gif)
+
+<img src="https://media.giphy.com/media/STqhRkvx4qH63cLqAo/giphy.gif" width="300" height="300">
 
